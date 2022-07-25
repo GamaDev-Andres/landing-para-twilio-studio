@@ -33,6 +33,7 @@ export default function SectionWhy() {
             <a
               href="https://www.twilio.com/try-twilio"
               target="_blank"
+              rel="noreferrer"
               className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-500 hover:bg-red-600"
             >
               Empieza ya
@@ -42,6 +43,7 @@ export default function SectionWhy() {
             <a
               href="https://www.twilio.com/docs/studio"
               target="_blank"
+              rel="noreferrer"
               className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-red-500 bg-white hover:bg-red-50"
             >
               Aprende más

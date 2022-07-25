@@ -37,7 +37,11 @@ export default function SectionInterface() {
           </p>
         </div>
         <div className="grid">
-          <Image src={interfaceGift} className="bg-gray-100 rounded-lg" />
+          <Image
+            alt="gift which show the interface"
+            src={interfaceGift}
+            className="bg-gray-100 rounded-lg"
+          />
         </div>
       </div>
     </div>

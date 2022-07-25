@@ -62,6 +62,7 @@ export default function SectionHero() {
                   <a
                     href="https://www.twilio.com/try-twilio"
                     target="_blank"
+                    rel="noreferrer"
                     className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-500 hover:bg-red-600 md:py-4 md:text-lg md:px-10"
                   >
                     Empieza ya

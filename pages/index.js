@@ -1,7 +1,17 @@
+import Footer from "../components/Footer";
+import SectionFeatures from "../components/SectionFeatures";
+import SectionHero from "../components/SectionHero";
+import SectionInterface from "../components/SectionInterface";
+import SectionWhy from "../components/SectionWhy";
+
 export default function Home() {
   return (
     <div className="min-h-screen">
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <SectionHero />
+      <SectionFeatures />
+      <SectionInterface />
+      <SectionWhy />
+      <Footer />
     </div>
   );
 }
